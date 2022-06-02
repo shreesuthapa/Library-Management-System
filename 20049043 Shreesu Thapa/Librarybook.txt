@@ -1,0 +1,10 @@
+1	The Lord Boy	Gerge Orell	20	17
+2	The Kite Runner	Khle Hosein	30	69
+3	Harry Potter	JK. Rowling	60	92
+4	Slaughterhouse	Kurt Vongeh	90	88
+5	The Lion King	C.S Lewish	25	117
+6	Kill Mocking	Harpeel lee	80	207
+7	Jakely Wind	Bronte JKL	100	93
+8	Animal Farm	George DK	50	78
+9	Think and Grow	Pau Boleni	80	111
+10	Charlotte Web	E.B. White	90	102
